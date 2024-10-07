@@ -1,0 +1,22 @@
+   local validKeys = {
+        "UuqKdqzeZalCJHFtGJvhMvnQMlkkb9rf",
+        "SSxuN2eB6vS2O9zsJQsOqfK85Yc7uMZn",
+        "ZrzmPoPFfKLgYnqEzBcXrTiL5b79fBYK",
+        "tn0djZcBQE8Iiu859IBYjiojoUiLMwhl",
+        "f82Smh2foMVArYKg9f79SKpt4V4kpCqF",
+        "mM7ZhJRatD1AVyCPLTfryljPnB0tHr77",
+        "XluhAJrhyEMIPFV914jNG5oY4Lk48BKa",
+        "K8Ck19Xiq7vGNEcLwkmdqUfA51Mu1BZd",
+        "NO8R2fIyjwuMculw4Sj2YrDM4YTamZRl",
+        "N0UYw0dLnm0MsutdalEOHmzryrEBms5L",
+        "QalFVk8WTu9Cr5FqDOrbGBEF8YOFANXL",
+        "AK3WIxPlinSIEP4olBL6M4yHGFAovBf6",
+        "64Vv003iTjLsRGin0kHAAbzbxg3XE04h",
+        "5vqteh2nPPIhjA4Nb0j21EdBvBI2NB89",
+        "pGFon50Jg8cQg7KaxyI8beC9qLsiqqOx",
+        "0M6SBi3fGSYrpGfNwyBiINiMbkpj9xvk",
+        "mev3HdOMKdEGExoq04RDj6hbB91LDFjJ",
+        "PngLOT5zMPgr9F6PB2QkEiGJCMsWTHIO",
+        "Dqg49CJbnHeBONmoSTyoLV2819uPdUEy",
+        "7ZrBwwTGInSESieWmixTbqOOOf9Pl2vv"
+    }
